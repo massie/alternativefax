@@ -23,12 +23,12 @@ This is a test message. \textit{DO NOT FAX THIS}
 ^D
 $ ./generate.py message.txt
 $ ls *.pdf
-test.txt.committee_on_oversight_and_government_reform.pdf
-test.txt.committee_on_ways_and_means.pdf
-test.txt.congressman_mark_desaulnier.pdf
-test.txt.governor_jerry_brown.pdf
-test.txt.senator_dianne_feinstein.pdf
-test.txt.senator_kamala_harris.pdf
+message.txt.committee_on_oversight_and_government_reform.pdf
+message.txt.committee_on_ways_and_means.pdf
+message.txt.congressman_mark_desaulnier.pdf
+message.txt.governor_jerry_brown.pdf
+message.txt.senator_dianne_feinstein.pdf
+message.txt.senator_kamala_harris.pdf
 ```
 
 Here's an example of one of the generated faxes.
