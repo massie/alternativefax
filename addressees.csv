@@ -5,3 +5,4 @@ greeting,address,fax_number,constituent
 "Committee on Oversight and Government Reform","2157 Rayburn House Office Building|Washington, D.C. 20515","(202) 225-3974",False
 "Governor Jerry Brown","c/o State Capitol|Suite 1173|Sacramento, CA 95814","(916) 558-3160",True
 "Committee on Ways and Means","1102 Longworth HOB|Washington D.C. 20515","(202) 225-2610",False
+"Senate Committee on Banking, Housing, and Urban Affairs","534 Dirksen Senate Office Building|Washington, D.C. 20510","(202) 224-7391",False

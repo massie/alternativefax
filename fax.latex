@@ -9,9 +9,11 @@
 \begin{letter}{\VAR{addressee}}
 \opening{\textbf{\VAR{greeting}},}
 \vspace{2\parskip}
+Hello, my name is \VAR{sendername} and I'm 
 %- if constituent
-Hello, my name is \VAR{sendername} and I'm a concerned constituent from \VAR{sendercity}, \VAR{senderzip}.\par
+a concerned constituent
 %- endif
+from \VAR{sendercity}, \VAR{senderstate}.\par
 \VAR{faxtext}\par
 No response to this facsimile is necessary; however, please feel free to contact me via email or phone.
 \vspace{2\parskip}

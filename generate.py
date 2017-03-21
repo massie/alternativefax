@@ -38,6 +38,7 @@ with open("addressees.csv") as addressees:
         entry['faxtext'] = FAXTEXT
         entry['sendername'] = SENDER['name']
         entry['senderzip'] = SENDER['zip']
+        entry['senderstate'] = SENDER['state']
         entry['sendercity'] = SENDER['city']
         entry['senderaddress'] = "\\\\".join([SENDER['address'], "%s, %s %s" %\
 		                      (SENDER['city'], SENDER['state'], SENDER['zip']),\
