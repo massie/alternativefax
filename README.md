@@ -34,3 +34,5 @@ test.txt.senator_kamala_harris.pdf
 Here's an example of one of the generated faxes.
 
 ![Example FAX](example_fax.png)
+
+In order to have your FAX added to the daily contact totals, keep your messages short and direct and make sure the FAX contains your address and zip code, especially if you are a constituent. The provided `fax.latex` does just that, if you mark the `constituent` field in `addressees.csv` as `True` (see `fax.latex` for details).
