@@ -13,7 +13,7 @@ To install alternativefax:
 4. Copy the `sender.csv.example` file to `sender.csv` and update the fields. Make sure that you the path to your signature file matches with step 3 above.
 5. Update the `addressees.csv` file to contain the people that you want to generate faxes for.
 
-*WARNING:* be careful not to check in your `signature.png` or `sender.csv` file into git since it contains personal information. You can use e.g. `git grep <name>` to see if your information leaked into git.
+*WARNING:* be careful not to check in your `signature.png` or `sender.csv` file into git since it contains personal information (the repo `.gitignore` is setup to ignore them). You can use e.g. `git grep <name>` to see if your information leaked into git.
 
 To use alternativefax:
 
