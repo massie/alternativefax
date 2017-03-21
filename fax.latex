@@ -1,0 +1,22 @@
+\documentclass{letter}
+\usepackage{graphicx}
+\addtolength{\voffset}{-0.5in}
+\addtolength{\hoffset}{-0.3in}
+\addtolength{\textheight}{2cm}
+\longindentation=0pt
+\address{\VAR{senderaddress}}
+\begin{document}
+\begin{letter}{\VAR{addressee}}
+\opening{\textbf{\VAR{greeting}},}
+\vspace{2\parskip}
+%- if constituent
+Hello, my name is \VAR{sendername} and I'm a concerned constituent from \VAR{sendercity}, \VAR{senderzip}.\par
+%- endif
+\VAR{faxtext}\par
+No response to this facsimile is necessary; however, please feel free to contact me via email or phone.
+\vspace{2\parskip}
+\closing{Respectfully,\\
+\fromsig{\includegraphics[scale=0.5]{\VAR{signature}}} \\
+\fromname{\VAR{sendername}}}
+\end{letter}
+\end{document}

@@ -1,0 +1,7 @@
+greeting,address,fax_number,constituent
+"Senator Dianne Feinstein","United States Senate|331 Hart Senate Office Building|Washington, D.C. 20510","(202) 228-3954",True
+"Senator Kamala Harris","United States Senate|112 Hart Senate Office Building|Washington, D.C. 20510","(202) 224-2200",True
+"Congressman Mark DeSaulnier","United States House of Representatives|115 Cannon House Office Building|Washington, D.C. 20515","(202) 225-5609",True
+"Committee on Oversight and Government Reform","2157 Rayburn House Office Building|Washington, D.C. 20515","(202) 225-3974",False
+"Governor Jerry Brown","c/o State Capitol|Suite 1173|Sacramento, CA 95814","(916) 558-3160",True
+"Committee on Ways and Means","1102 Longworth HOB|Washington D.C. 20515","(202) 225-2610",False
