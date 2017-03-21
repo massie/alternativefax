@@ -3,7 +3,7 @@
 * Conway: "You're saying it's a falsehood and Sean Spicer, our press secretary, gave alternative facts to that."
 * Todd: "Alternative facts are not facts. They are falsehoods."
 
-My ISP has a free fax service form that requires only a phone number and PDF file. This simple program allows me to autogenerate a PDFs to my representatives, senators, committee members, etc. I'm sharing it here in the hopes that it might be useful to others. Pull requests are welcomed.
+My ISP has a free fax service so I wrote this simple program to autogenerate PDFs to my representatives, senators, committee members, etc. I'm sharing it here in the hopes that it might be useful to others. Pull requests are welcomed.
 
 To install alternativefax:
 
