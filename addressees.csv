@@ -6,3 +6,5 @@ greeting,address,fax_number,constituent
 "Governor Jerry Brown","c/o State Capitol|Suite 1173|Sacramento, CA 95814","(916) 558-3160",True
 "Committee on Ways and Means","1102 Longworth HOB|Washington D.C. 20515","(202) 225-2610",False
 "Senate Committee on Banking, Housing, and Urban Affairs","534 Dirksen Senate Office Building|Washington, D.C. 20510","(202) 224-7391",False
+"House Select Committee on Intelligence - Majority","Capitol Visitor Center HVC-304|US Capitol Building|Washington, DC 20515-6415","(202) 225-1991",False
+"House Select Committee on Intelligence - Minority","Capitol Visitor Center HVC-304|US Capitol Building|Washington, DC 20515-6415","(202) 226-5068",False
