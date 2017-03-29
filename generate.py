@@ -47,5 +47,6 @@ with open("addressees.csv") as addressees:
         ADDRESSEES.append(entry)
 
 for addressee in ADDRESSEES:
+    print "Writing fax to %s" % (addressee['greeting'])
     pdf = build_pdf(TEMPLATE.render(addressee), texinputs=[CURRENT_DIR, ''])
     pdf.save_to(FAXPATH + "." + addressee['filename'])
