@@ -17,7 +17,7 @@ if len(sys.argv) != 2:
 
 FAXPATH = sys.argv[1]
 with open(FAXPATH, 'r') as myfile:
-    FAXTEXT = myfile.read().replace('\n', '')
+    FAXTEXT = myfile.read().replace('\n', ' ')
 
 CURRENT_DIR = os.path.abspath(os.path.dirname(__file__))
 ENV = make_env(loader=FileSystemLoader("."))
